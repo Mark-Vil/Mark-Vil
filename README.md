@@ -1,7 +1,8 @@
+[![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mark Vil</h1>
-<h3 align="center">Software developer from philippines</h3>
+<h3 align="center">Software Developer from Philippines</h3>
 <img align="right" alt="coding" width="400" src="https://media.baamboozle.com/uploads/images/527519/1639598488_23548_gif-url.gif"
-- 🌱 I’m currently learning **javascript and php**
+- 🌱 I’m currently learning **Javascript and PHP**
 
 - 📫 How to reach me [Mark Vil](https://web.facebook.com/Nocalan.Mark.007/)
 
