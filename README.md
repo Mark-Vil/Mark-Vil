@@ -1,9 +1,9 @@
 [![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Mark Vil</h1>
-<h3 align="center">Software Developer from Philippines</h3>
+<h1 align="center">Hi There! 👋</h1>
 <img align="right" alt="coding" width="400" src="https://media.baamboozle.com/uploads/images/527519/1639598488_23548_gif-url.gif"
-- 🌱 I’m currently learning **Javascript and PHP**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=100&color=F70202&width=435&lines=I'm+MARK+VIL;Software+Developer;Web+Developer)](https://git.io/typing-svg)
+- 🌱 I’m currently learning **Javascript and PHP**
 - 📫 How to reach me [Mark Vil](https://web.facebook.com/Nocalan.Mark.007/)
 
 <h3 align="left">Connect with me:</h3>
