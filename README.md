@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=100&color=F70202&width=435&lines=I'm+MARK+VIL;Software+Developer;Web+Developer)](https://git.io/typing-svg)
 - 🌱 I’m currently learning **Javascript and PHP**
 - 📫 How to reach me [Mark Vil](https://web.facebook.com/Nocalan.Mark.007/)
+- 👨‍💻 See my personal portfolio here (https://mark-vil.github.io/public/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
